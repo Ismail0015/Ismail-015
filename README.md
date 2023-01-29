@@ -8,7 +8,6 @@ at Bangabandhu Sheikh Mujibur Rahman Science and Technology, Gopalgonj
 Skills:  JS(Basic) / HTML / CSS/C++
 
 - 🌱 I’m currently learning Data structure, Algorithm, Dynamic programming, JavaScript,NodeJS 
-- 💬 Ask me about mdismailhosencse@gmail.com 
 - ⚡ Fun fact: With coding on leetcode, codeforces, atcoder, codechef 
 
 
